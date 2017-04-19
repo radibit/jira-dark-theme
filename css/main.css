@@ -1,0 +1,7 @@
+#content {
+  filter: invert(88%);
+}
+
+#content img {
+  filter: invert();
+}
