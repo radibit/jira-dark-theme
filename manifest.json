@@ -21,9 +21,6 @@
       "exclude_matches": [
         "https://*.atlassian.net/wiki/*"
       ],
-      "js": [
-        "scripts/content.js"
-      ],
       "css": [
         "css/main.css"
       ]
