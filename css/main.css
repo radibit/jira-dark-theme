@@ -1,7 +1,10 @@
-#content {
+body {
   filter: invert(88%);
+  background-color: #1f1f1f !important;
 }
 
-#content img {
-  filter: invert();
+#page img,
+.img-wrapper,
+span[role="img"] {
+  filter: invert(88%);
 }
